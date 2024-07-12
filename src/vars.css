@@ -1,0 +1,9 @@
+:root {
+  /* Colours */
+  --color-text: linear-gradient(45deg, #FBDA61 0%, #FF5ACD 100%);
+  --color-primary: #C1C1C1;
+  --color-secondary: #ffffffd5;
+  --color-dark: linear-gradient(45deg, #FBDA61 0%, #FF5ACD 100%);
+  --color-bg:  #b9b9b9 /* Fonts */
+  --font-roboto: "Roboto";
+}

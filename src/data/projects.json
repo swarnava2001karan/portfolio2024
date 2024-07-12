@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/1.png",
+    "description": "This is a landing project made in React.js",
+    "skills": ["React"],
+    "demo": "https://alovia.vercel.app/"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/2.png",
+    "description": "This is a portfolio made with react and kaboom js framework designed to showcase my resume",
+    "skills": ["React", "Kaboom"],
+    "demo": "https://game-portfolio-two.vercel.app/"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/3.png",
+    "description": "This is a project of Landing page made to learn about an upcoming AI.",
+    "skills": ["React"],
+    "demo": "https://infinity-ai-eight.vercel.app/"
+  },
+  {
+    "title": "Project D",
+    "imageSrc": "projects/4.png",
+    "description":"This a design project made using Canva",
+    "skills": ["Canva"],
+    "demo":"https://swarnava-karan.my.canva.site/creativity"
+
+    
+
+
+
+
+  }
+]
